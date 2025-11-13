@@ -12,7 +12,7 @@ namespace MO_32_2_Pereuznik_esc.NeuroNet
         string pathFileWeights; // путь к файлу синаптических вестов для нейросети
         protected int numofneurons; //число нейронов текущего слоя
         protected int numofprevneurons; //число нейронов предыдущего слоя
-        protected const double learningrate = 0.012; //скорость обучения
+        protected const double learningrate = 0.011; //скорость обучения
         protected const double momentum = 0.050d; //момент итерации
         protected double[,] lastdeltaweights; //веса предыдущей итерации обучения
         protected Neuron[] neurons; //массив нейронов текущего слоя
@@ -155,3 +155,4 @@ namespace MO_32_2_Pereuznik_esc.NeuroNet
         abstract public double[] BackwardPass(double[] stuff); //для обратных
     }
 }
+
