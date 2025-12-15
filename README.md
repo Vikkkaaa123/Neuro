@@ -39,6 +39,7 @@
 - Сохранение обученных весов в файлы
 
 ## Структура проекта
+```
 MO_32_2_Pereuznik_esc/
 ├── FormMain.cs # Главная форма
 ├── FormMain.Designer.cs # Дизайн формы
@@ -57,6 +58,7 @@ MO_32_2_Pereuznik_esc/
 ├── hidden_layer1_memory.csv
 ├── hidden_layer2_memory.csv
 └── output_layer_memory.csv
+```
 
 ## Использование
 
