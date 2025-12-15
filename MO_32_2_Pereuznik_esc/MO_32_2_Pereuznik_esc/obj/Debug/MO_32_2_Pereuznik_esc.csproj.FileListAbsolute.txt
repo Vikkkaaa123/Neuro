@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.Properties.Resources.resources
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\bin\Debug\MO_32_2_Pereuznik_esc.exe.config
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\bin\Debug\MO_32_2_Pereuznik_esc.exe
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\bin\Debug\MO_32_2_Pereuznik_esc.pdb
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.exe
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.pdb
+C:\Users\user\source\repos\MO_32_2_Pereuznik_esc\MO_32_2_Pereuznik_esc\obj\Debug\MO_32_2_Pereuznik_esc.FormMain.resources
